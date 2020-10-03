@@ -4,6 +4,12 @@ Tubing connected to drivers can act as filters. This is done in a number of ways
 
 It is worth noting that tuning with tubes has a cost, as tubes can introduce resonance to sound.
 
+Longer tube, peaks shift left. Shorter, to the right.
+
+Bigger inner diameter makes peaks flatter, raises the rest of the output to be louder. Smaller inner diameter is peakier. Typically.
+
+Plus a small id tube with longer length acts as a lowpass.
+
 ## Tube Length and Diameter
 
 Longer tubes introduce lower frequency resonances. Larger tube diameters narrows and increases the resonances of the tube.
